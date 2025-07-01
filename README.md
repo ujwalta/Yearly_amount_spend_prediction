@@ -1,4 +1,5 @@
 📊 E-Commerce Spending Prediction App
+
 This project builds a machine learning model to predict yearly e-commerce spending based on user behavior metrics such as time spent on the website, time spent on the app, session length, and membership duration. The trained model is visualized and deployed using Streamlit.
 
 🚀 Features
